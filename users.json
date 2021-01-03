@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "login": "kanstantsin",
+    "name": "Константин",
+    "role": "administrator"
+  },
+  {
+    "id": "2",
+    "login": "elena",
+    "name": "Елена",
+    "role": "moderator"
+  },
+  {
+    "id": "3",
+    "login": "dmitriy",
+    "name": "Дмитрий",
+    "role": "editor"
+  }
+]
